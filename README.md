@@ -2,4 +2,4 @@
 My beginner level tutorial practice projects 
 
 ## Projects 
-- 01 Digtal Clock
+- 01 Digital Clock
